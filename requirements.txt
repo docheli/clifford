@@ -3,3 +3,6 @@ ipyvuetify
 voila-vuetify
 bqplot
 numpy
+lonboard
+geopands
+pandas
