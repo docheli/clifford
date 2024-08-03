@@ -1,8 +1,6 @@
 geopands
 pandas
 voila
-ipyvuetify
-voila-vuetify
-bqplot
 numpy
 lonboard
+ipywidgets
